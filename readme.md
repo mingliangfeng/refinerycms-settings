@@ -1,6 +1,6 @@
 # Settings
 
-![Refinery Settings](http://refinerycms.com/system/images/0000/0666/settings.png)
+![Refinery Settings](public/settings.png)
 
 ## About
 
